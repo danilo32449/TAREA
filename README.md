@@ -1,2 +1,2 @@
 # TAREA
-función de proyecto
+Esta función muestra los sensores de cada dependencia en la empresa.
